@@ -22,15 +22,6 @@ I'm not a traditional software engineer. I design the product, write the specs a
 
 ## 🛠️ Software I've built
 
-### Workforce & skilled trades
-
-<table>
-<tr>
-<td width="260"><img src="assets/apps/mi-course-catalog.jpg" alt="MI Course Catalog" width="240" /></td>
-<td><b>MI Course Catalog</b><br />Smarter-than-keyword search across the Machinists Institute's programs, outcomes and hours.</td>
-</tr>
-</table>
-
 ### Learning & course creation
 
 <table>
