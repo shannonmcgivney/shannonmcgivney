@@ -1,5 +1,3 @@
-<img src="assets/headshot.jpg" alt="Shannon McGivney" width="160" align="right" />
-
 # Hi, I'm Shannon McGivney 👋
 
 **Founder of [McGivney Media](https://aiworkforce.training).** I build AI training programs and AI-powered apps for workforce boards, Tribal programs, youth programs and the people they serve.
