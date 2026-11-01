@@ -23,25 +23,73 @@ I'm not a traditional software engineer. I design the product, write the specs a
 ## 🛠️ Software I've built
 
 ### Workforce & skilled trades
-- **MI Course Catalog**: smarter-than-keyword search across the Machinists Institute's programs, outcomes and hours.
+
+<table>
+<tr>
+<td width="260"><img src="assets/apps/mi-course-catalog.jpg" alt="MI Course Catalog" width="240" /></td>
+<td><b>MI Course Catalog</b><br />Smarter-than-keyword search across the Machinists Institute's programs, outcomes and hours.</td>
+</tr>
+</table>
 
 ### Learning & course creation
-- **[Course Creator Coworker](https://creatorcoworkers.cre8iveorigins.life)**: a team of AI coaches for niche, course structure, pricing, branding and launch copy.
-- **[Ara Māori](https://kiaora.life)**: Māori language lessons with vocabulary, grammar and flashcards.
-- **[Ara Cards: Daily Wisdom](https://ara.guide)**: daily wisdom cards with a journey tracker, notes, audio lessons and an AI guide.
+
+<table>
+<tr>
+<td width="260"><a href="https://creatorcoworkers.cre8iveorigins.life"><img src="assets/apps/course-creator.jpg" alt="Course Creator Coworker" width="240" /></a></td>
+<td><a href="https://creatorcoworkers.cre8iveorigins.life"><b>Course Creator Coworker</b></a><br />A team of AI coaches for niche, course structure, pricing, branding and launch copy.</td>
+</tr>
+<tr>
+<td width="260"><a href="https://kiaora.life"><img src="assets/apps/ara-maori.jpg" alt="Ara Māori" width="240" /></a></td>
+<td><a href="https://kiaora.life"><b>Ara Māori</b></a><br />Māori language lessons with vocabulary, grammar and flashcards.</td>
+</tr>
+<tr>
+<td width="260"><a href="https://ara.guide"><img src="assets/apps/ara-cards.jpg" alt="Ara Cards: Daily Wisdom" width="240" /></a></td>
+<td><a href="https://ara.guide"><b>Ara Cards: Daily Wisdom</b></a><br />Daily wisdom cards with a journey tracker, notes, audio lessons and an AI guide.</td>
+</tr>
+</table>
 
 ### Business productivity
-- **[Flow Board](https://flowboard.cre8iveorigins.life)**: cadence-driven Kanban boards for tasks and sales pipelines, with AI-suggested next steps.
-- **The SCT: Sales Commission Tracker**: logs sales, calculates commission and exports to CSV. Built mobile-first.
+
+<table>
+<tr>
+<td width="260"><a href="https://flowboard.cre8iveorigins.life"><img src="assets/apps/flowboard.jpg" alt="Flow Board" width="240" /></a></td>
+<td><a href="https://flowboard.cre8iveorigins.life"><b>Flow Board</b></a><br />Cadence-driven Kanban boards for tasks and sales pipelines, with AI-suggested next steps.</td>
+</tr>
+<tr>
+<td width="260"><img src="assets/apps/sct.jpg" alt="The SCT: Sales Commission Tracker" width="240" /></td>
+<td><b>The SCT: Sales Commission Tracker</b><br />Logs sales, calculates commission and exports to CSV. Built mobile-first.</td>
+</tr>
+</table>
 
 ### Culture, wellbeing & place (Cre8ive Origins)
-- **[LunarSync](https://lunarsync.cre8iveorigins.life)**: monthly guides based on the Maramataka (Māori lunar calendar), with calendar sync.
-- **Connect Your Culture**: explore ancestral identity by pairing DNA data with cultural education.
-- **[Astroly](https://astroly.me)**: astrocartography heatmaps that map "Thrive Zones" around the world.
+
+<table>
+<tr>
+<td width="260"><a href="https://lunarsync.cre8iveorigins.life"><img src="assets/apps/lunarsync.jpg" alt="LunarSync" width="240" /></a></td>
+<td><a href="https://lunarsync.cre8iveorigins.life"><b>LunarSync</b></a><br />Monthly guides based on the Maramataka (Māori lunar calendar), with calendar sync.</td>
+</tr>
+<tr>
+<td width="260"><img src="assets/apps/connect-your-culture.jpg" alt="Connect Your Culture" width="240" /></td>
+<td><b>Connect Your Culture</b><br />Explore ancestral identity by pairing DNA data with cultural education.</td>
+</tr>
+<tr>
+<td width="260"><a href="https://astroly.me"><img src="assets/apps/astroly.jpg" alt="Astroly" width="240" /></a></td>
+<td><a href="https://astroly.me"><b>Astroly</b></a><br />Astrocartography heatmaps that map "Thrive Zones" around the world.</td>
+</tr>
+</table>
 
 ### Explorations
-- **Recreation Match**: find trails near you or along a road trip, with drive times and AI review summaries.
-- **Move Abroad Quiz**: matches you with three countries based on priorities, deal breakers and visa eligibility.
+
+<table>
+<tr>
+<td width="260"><img src="assets/apps/recreation-match.jpg" alt="Recreation Match" width="240" /></td>
+<td><b>Recreation Match</b><br />Find trails near you or along a road trip, with drive times and AI review summaries.</td>
+</tr>
+<tr>
+<td width="260"><img src="assets/apps/move-abroad.jpg" alt="Move Abroad Quiz" width="240" /></td>
+<td><b>Move Abroad Quiz</b><br />Matches you with three countries based on priorities, deal breakers and visa eligibility.</td>
+</tr>
+</table>
 
 ---
 
