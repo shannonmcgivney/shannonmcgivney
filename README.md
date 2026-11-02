@@ -58,10 +58,6 @@ I'm not a traditional software engineer. I design the product, write the specs a
 <td><a href="https://lunarsync.cre8iveorigins.life"><b>LunarSync</b></a><br />Monthly guides based on the Maramataka (Māori lunar calendar), with calendar sync.</td>
 </tr>
 <tr>
-<td width="260"><img src="assets/apps/connect-your-culture.jpg" alt="Connect Your Culture" width="240" /></td>
-<td><b>Connect Your Culture</b><br />Explore ancestral identity by pairing DNA data with cultural education.</td>
-</tr>
-<tr>
 <td width="260"><a href="https://astroly.me"><img src="assets/apps/astroly.jpg" alt="Astroly" width="240" /></a></td>
 <td><a href="https://astroly.me"><b>Astroly</b></a><br />Astrocartography heatmaps that map "Thrive Zones" around the world.</td>
 </tr>
