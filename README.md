@@ -75,8 +75,8 @@ I'm not a traditional software engineer. I design the product, write the specs a
 <td><b>Recreation Match</b><br />Find trails near you or along a road trip, with drive times and AI review summaries.</td>
 </tr>
 <tr>
-<td width="260"><img src="assets/apps/move-abroad.jpg" alt="Move Abroad Quiz" width="240" /></td>
-<td><b>Move Abroad Quiz</b><br />Matches you with three countries based on priorities, deal breakers and visa eligibility.</td>
+<td width="260"><a href="https://www.cre8iveorigins.life/en/course-detail/country-match-quiz/35477/"><img src="assets/apps/country-match.jpg" alt="Country Match" width="240" /></a></td>
+<td><a href="https://www.cre8iveorigins.life/en/course-detail/country-match-quiz/35477/"><b>Country Match</b></a><br />Matches you with three countries based on priorities, deal breakers and visa eligibility.</td>
 </tr>
 </table>
 
