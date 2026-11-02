@@ -67,8 +67,8 @@ I'm not a traditional software engineer. I design the product, write the specs a
 
 <table>
 <tr>
-<td width="260"><a href="https://trail-match-ai.lovable.app"><img src="assets/apps/recreation-match.jpg" alt="Recreation Match" width="240" /></a></td>
-<td><a href="https://trail-match-ai.lovable.app"><b>Recreation Match</b></a><br />Find trails near you or along a road trip, with drive times and AI review summaries.</td>
+<td width="260"><a href="https://recreationmatch.cre8iveorigins.life"><img src="assets/apps/recreation-match.jpg" alt="Recreation Match" width="240" /></a></td>
+<td><a href="https://recreationmatch.cre8iveorigins.life"><b>Recreation Match</b></a><br />Find trails near you or along a road trip, with drive times and AI review summaries.</td>
 </tr>
 <tr>
 <td width="260"><a href="https://www.cre8iveorigins.life/en/course-detail/country-match-quiz/35477/"><img src="assets/apps/country-match.jpg" alt="Country Match" width="240" /></a></td>
