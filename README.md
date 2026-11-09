@@ -78,11 +78,15 @@ I'm not a traditional software engineer. I design the product, write the specs a
 
 ---
 
-## 🎓 Free Claude skill packs for students
+## 🎓 Free Claude skills
+
+Made with Claude Code for my students and anyone building with AI. Each one installs in Claude.ai (upload the zip) or Claude Code.
 
 | Pack | What it does | Link |
 |---|---|---|
 | **LinkedIn Profile Glow-Up** | 10 Claude skills that walk you through a 9-step LinkedIn makeover (photo, banner, headline, About, Featured, posts), plus an audit that scores your profile out of 18. Works in Claude.ai and Claude Code. | [Repo](https://github.com/shannonmcgivney/linkedin-profile-glowup) · [Download](https://github.com/shannonmcgivney/linkedin-profile-glowup/releases/latest/download/LinkedIn-Glow-Up-Pack-UNZIP-FIRST.zip) |
+| **Content Angles** | Writes posts, short-video scripts and emails from 7 reusable story angles (Mistake, Myth, Client, Reframe, Problem, Prescription, Origin), one at a time or a week at once. | [Repo](https://github.com/shannonmcgivney/content-angles) · [Download](https://github.com/shannonmcgivney/content-angles/releases/latest/download/content-angles.zip) |
+| **Human** (`/human`) | Rewrites any draft so it reads like a person wrote it, with none of the common AI-writing tells, plus a linter that flags them. | [Repo](https://github.com/shannonmcgivney/human-writing) · [Download](https://github.com/shannonmcgivney/human-writing/releases/latest/download/human.zip) |
 
 ---
 
