@@ -78,6 +78,14 @@ I'm not a traditional software engineer. I design the product, write the specs a
 
 ---
 
+## 🎓 Free Claude skill packs for students
+
+| Pack | What it does | Link |
+|---|---|---|
+| **LinkedIn Profile Glow-Up** | 10 Claude skills that walk you through a 9-step LinkedIn makeover (photo, banner, headline, About, Featured, posts), plus an audit that scores your profile out of 18. Works in Claude.ai and Claude Code. | [Repo](https://github.com/shannonmcgivney/linkedin-profile-glowup) · [Download](https://github.com/shannonmcgivney/linkedin-profile-glowup/releases/latest/download/LinkedIn-Glow-Up-Pack-UNZIP-FIRST.zip) |
+
+---
+
 ## 🤖 How I build
 
 - **Lovable** for full-stack apps (React, TypeScript, Supabase)
