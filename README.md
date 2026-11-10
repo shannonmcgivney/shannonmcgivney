@@ -1,6 +1,6 @@
 # Hi, I'm Shannon McGivney 👋
 
-**Founder of [AI Workforce Training a DBA of McGivney Media](https://aiworkforce.training).** I build AI training programs and AI-powered apps for workforce boards, Tribal programs, youth programs and the people they serve.
+**Founder of [AI Workforce Training ](https://aiworkforce.training)** a DBA of McGivney Media. I build AI training programs and AI-powered apps for workforce boards, Tribal programs, youth programs and the people they serve.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shannonmcgivney-0A66C2?logo=linkedin)](https://www.linkedin.com/in/shannonmcgivney/) [![YouTube](https://img.shields.io/badge/YouTube-@Shannon.McGivney-FF0000?logo=youtube)](https://www.youtube.com/@Shannon.McGivney) [![Website](https://img.shields.io/badge/Web-aiworkforce.training-111?logo=googlechrome&logoColor=white)](https://aiworkforce.training)
 
