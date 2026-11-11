@@ -80,7 +80,7 @@ I'm not a traditional software engineer. I design the product, write the specs a
 
 ## 🎓 Free Claude skills
 
-Made with Claude Code for my students and anyone building with AI. Each one installs in Claude.ai (upload the zip) or Claude Code.
+Made with Claude Code for my students and anyone building with AI. Most install in Claude.ai (upload the zip) or Claude Code; the ones marked Claude Code only need your own computer.
 
 | Pack | What it does | Link |
 |---|---|---|
@@ -91,6 +91,7 @@ Made with Claude Code for my students and anyone building with AI. Each one inst
 | **Draft Follow-Up Email** | Say "draft follow-up email" after a meeting and Claude reads your Wispr Flow transcript, then saves a Gmail draft with a thank-you, a two-sentence recap, next steps by owner and what you promised to send. It never sends, and it keeps personal details out. | [Repo](https://github.com/shannonmcgivney/draft-follow-up-email) · [Download](https://github.com/shannonmcgivney/draft-follow-up-email/releases/latest/download/draft-follow-up-email.zip) |
 | **Ad Launch Preflight** | Five checks before you spend on Reddit, Meta, LinkedIn, Google or TikTok ads: one goal with a target number, tracking that's tested and waits for cookie consent, enough different ads to learn from, an audience that fits, and pause and scale rules written down before launch. Ends in a GO or FIX FIRST brief. | [Repo](https://github.com/shannonmcgivney/ad-launch-preflight) · [Download](https://github.com/shannonmcgivney/ad-launch-preflight/releases/latest/download/ad-launch-preflight.zip) |
 | **Launch Week** | Get your app's first users for free. Plans a launch week on Peerlist, Microlaunch, Show HN and Product Hunt with a post written for each, and builds a free-tool page for your link in bio that keeps visitors' emails (with opt-in) after the launch spike ends. | [Repo](https://github.com/shannonmcgivney/launch-week) · [Download](https://github.com/shannonmcgivney/launch-week/releases/latest/download/Launch-Week-Pack-UNZIP-FIRST.zip) |
+| **Self-Improving Claude** | Claude gets better the more you use it. Reads your saved Claude Code sessions and shows where Claude keeps going wrong, what you keep re-explaining and which jobs you do by hand, then builds the skills you're missing. Also includes a retro after each job and a "watch this reel and build what it teaches" workflow. Claude Code only. | [Repo](https://github.com/shannonmcgivney/self-improving-claude) · [Download](https://github.com/shannonmcgivney/self-improving-claude/releases/latest/download/Self-Improving-Claude-Pack.zip) |
 
 ---
 
