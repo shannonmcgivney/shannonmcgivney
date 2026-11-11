@@ -90,8 +90,8 @@ Made with Claude Code for my students and anyone building with AI. Each one inst
 | **Human** (`/human`) | Rewrites any draft so it reads like a person wrote it, with none of the common AI-writing tells, plus a linter that flags them. | [Repo](https://github.com/shannonmcgivney/human-writing) · [Download](https://github.com/shannonmcgivney/human-writing/releases/latest/download/human.zip) |
 | **Draft Follow-Up Email** | Say "draft follow-up email" after a meeting and Claude reads your Wispr Flow transcript, then saves a Gmail draft with a thank-you, a two-sentence recap, next steps by owner and what you promised to send. It never sends, and it keeps personal details out. | [Repo](https://github.com/shannonmcgivney/draft-follow-up-email) · [Download](https://github.com/shannonmcgivney/draft-follow-up-email/releases/latest/download/draft-follow-up-email.zip) |
 | **Ad Launch Preflight** | Five checks before you spend on Reddit, Meta, LinkedIn, Google or TikTok ads: one goal with a target number, tracking that's tested and waits for cookie consent, enough different ads to learn from, an audience that fits, and pause and scale rules written down before launch. Ends in a GO or FIX FIRST brief. | [Repo](https://github.com/shannonmcgivney/ad-launch-preflight) · [Download](https://github.com/shannonmcgivney/ad-launch-preflight/releases/latest/download/ad-launch-preflight.zip) |
-
 | **Launch Week** | Get your app's first users for free. Plans a launch week on Peerlist, Microlaunch, Show HN and Product Hunt with a post written for each, and builds a free-tool page for your link in bio that keeps visitors' emails (with opt-in) after the launch spike ends. | [Repo](https://github.com/shannonmcgivney/launch-week) · [Download](https://github.com/shannonmcgivney/launch-week/releases/latest/download/Launch-Week-Pack-UNZIP-FIRST.zip) |
+
 ---
 
 ## 🤖 How I build
